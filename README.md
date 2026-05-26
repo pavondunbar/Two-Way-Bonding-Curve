@@ -1,3 +1,6 @@
+> **SANDBOX / EDUCATIONAL USE ONLY. NOT FOR PRODUCTION**  
+> These smart contracts are provided for **EDUCATIONAL USE ONLY AND HAVE NOT BEEN AUDITED.** If you make the decision to use these in production, please do so **AT YOUR OWN RISK!!**
+
 ## Two-Way Bonding Curve Smart Contracts
 Three two-way bonding curve token contracts that enable automated market making between BOND tokens and a stablecoin (USDT/USDC). Each contract implements a different pricing curve and provides predictable token pricing.
 
